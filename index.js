@@ -1,0 +1,1 @@
+module.exports.qmDB = require('./DB/methods')

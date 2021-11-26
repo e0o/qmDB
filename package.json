@@ -1,0 +1,22 @@
+{
+  "name": "qmdb",
+  "version": "1.0.0",
+  "description": "node-quick db mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/e0o/qmDB.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e0o/qmDB.git"
+  },
+  "keywords": [
+    "qmDB"
+  ],
+  "author": "DataBase Mongodb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e0o/qmDB/issues"
+  },
+  "homepage": "https://github.com/e0o/qmDB#readme"
+}
